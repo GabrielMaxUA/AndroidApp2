@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tims</string>
+    <string name="name_of_list">Who you would like to order for?</string>
+    <string name="create_list">Create</string>
+</resources>
